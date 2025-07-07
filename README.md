@@ -18,7 +18,7 @@ Objective:
 The main goal of this task was to design a simple 4-bit ALU (Arithmetic Logic Unit) using Verilog. The ALU was supposed to perform five basic operations — addition, subtraction, bitwise AND, OR, and NOT. I had to write the code for the ALU, create a testbench to verify its working, and generate simulation results to check if it was working as expected.
 
 Introduction:
-An ALU is one of the most important components in any digital system or processor. It’s the part that handles all the arithmetic and logical operations. Since I’m just getting started with VLSI design and HDL coding, this was a great opportunity to understand how a basic ALU works internally and how to build one using Verilog.
+An ALU is one of the most important components in any digital system or processor. It is the part that handles all the arithmetic and logical operations. Since I am just getting started with VLSI design and HDL coding, this was a great opportunity to understand how a basic ALU works internally and how to build one using Verilog.
 This task helped me get hands-on experience with digital design, use of behavioral modeling, and how to write and test Verilog code in a simulator.
 
 Design Details:
@@ -107,5 +107,5 @@ I used an online simulator and also tried local tools like Icarus Verilog + GTKW
 The results matched the expected binary outputs perfectly, which confirmed that my ALU was working correctly for all the operations.
 
 Conclusion:
-This was my first real digital design task using Verilog, and I learned a lot from it. I got to understand how ALUs work at a hardware level and how to write clean and testable Verilog code. I also learned how to write a testbench and simulate my design to verify its functionality. This task was a great starting point and I’m excited to take on more complex designs in the coming weeks of my internship.
+This was my first real digital design task using Verilog, and I learned a lot from it. I got to understand how ALUs work at a hardware level and how to write clean and testable Verilog code. I also learned how to write a testbench and simulate my design to verify its functionality. This task was a great starting point and I am excited to take on more complex designs in the coming weeks of my internship.
 
