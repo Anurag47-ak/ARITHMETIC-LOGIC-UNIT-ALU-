@@ -109,6 +109,10 @@ The results matched the expected binary outputs perfectly, which confirmed that 
 OUTPUT(TERMINAL) : 
 
   ![Image](https://github.com/user-attachments/assets/c881c770-93dc-4fb3-9a68-37aba11b9460)
+
+OUTPUT(DIAGRAM) : 
+
+  ![Image](https://github.com/user-attachments/assets/6285eccd-9df1-4f20-8997-08b432a6e001)
   
 Conclusion:
 This was my first real digital design task using Verilog, and I learned a lot from it. I got to understand how ALUs work at a hardware level and how to write clean and testable Verilog code. I also learned how to write a testbench and simulate my design to verify its functionality. This task was a great starting point and I am excited to take on more complex designs in the coming weeks of my internship.
